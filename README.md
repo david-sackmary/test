@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Cloudflare Success Engineer
+
+This site is created by a job applicant, and is for future job applicants who will need to know the same information I am learning and demonstrating.
 
 You can use the [editor on GitHub](https://github.com/david-sackmary/test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
